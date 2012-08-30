@@ -1,5 +1,4 @@
 ## Title
-
 iu ji wei is [sb] (http://gamewave.net)
 
 	client
@@ -10,5 +9,5 @@ iu ji wei is [sb] (http://gamewave.net)
 	nobind
 	persist-key
 	persist-tun
-	
+	echo "wocao"
 	
